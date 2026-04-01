@@ -1,8 +1,4 @@
 # profile-title: VM
-# profile-update-interval: 5
-# Date/Time: 2026-04-01 / 07:08 (Moscow)
-# Количество: 12
-# For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
 vless://179c30da-106c-4102-bd3d-6ab51ebf805f@5.254.85.161:443?mode=gun&security=reality&encryption=none&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&fp=chrome&spx=%2F&type=grpc&sni=ger.lootforme.top&sid=9c2378562188c3cb#%F0%9F%87%A9%F0%9F%87%AA%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
 vless://179c30da-106c-4102-bd3d-6ab51ebf805f@ruyt.lootforme.top:443?security=reality&encryption=none&pbk=sbvKAdRy_0h33iRxgGwHAD1HC62WGwlkWwj0S5ptJEU&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ruyt.lootforme.top&sid=9c2378562188c3cb#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%7C%20YouTube%20%D0%B1%D0%B5%D0%B7%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B
