@@ -1,5 +1,5 @@
 # profile-title: VM 
-# announce: обновлено:  06.04.2026 02.15
+# announce: обновлено:  06.04.2026 02.30
 vless://9b691795-7bbd-45a8-bca1-10684c064e60@217.16.27.73:7443?mode=gun&security=reality&encryption=none&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&fp=qq&type=grpc&serviceName=UpdateService&sni=ads.x5.ru&sid=dd700a46e27751d1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B*CIDR%5D%20VK
 vless://572cd02d-d184-4771-9cd2-6e8563b5a906@217.16.27.42:443?security=reality&encryption=none&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=id.x5.ru&sid=111111#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B*CIDR%5D%20VK
 vless://e5cdf347-d91e-4773-8645-e1c4991ee871@51.250.110.0:8444?security=reality&encryption=none&pbk=XK84BZHm8wGcPS24VRXFUv2PC399k6KejjV0GO_J4yY&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=058f0bcda6bf261b#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B*CIDR%5D%20YA
