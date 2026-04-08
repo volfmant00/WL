@@ -1,5 +1,5 @@
 # profile-title: VM 
-# announce: обновлено:  08.04.2026 12.00
+# announce: обновлено:  08.04.2026 12.15
 vless://1bf6eddd-982a-4c92-9173-213b62f5541c@212.233.123.16:5443?security=reality&encryption=none&pbk=u-rtpX7BjU88anzKtuiwOOjA6ayXEG91Omk5TRESen4&headerType=none&fp=qq&type=tcp&sni=max.ru&sid=48f997a6ba709787#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B*CIDR%5D%20VK
 vless://c72dc9f9-c6f2-4273-9f84-ffcf4c246771@95.163.182.243:7443?mode=gun&security=reality&encryption=none&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&fp=qq&type=grpc&serviceName=UpdateService&sni=ads.x5.ru&sid=dd700a46e27751d1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B*CIDR%5D%20VK
 vless://db230947-ac07-462a-adeb-b0c7ec994cf5@217.16.28.27:8443?mode=gun&security=reality&encryption=none&pbk=oWi1Dm7iMdTGeh-BI8rwKcnIaqeG2zF874NrSpPEPlI&fp=chrome&type=grpc&serviceName=UpdateService&sni=sso.passport.yandex.ru&sid=77cf23bd7f73c97a#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B*CIDR%5D%20VK
