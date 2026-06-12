@@ -1,5 +1,5 @@
 # profile-title: VM 
-# announce: обновлено:  12.06.2026 10.15
+# announce: обновлено:  12.06.2026 10.30
 vless://b5e23894-a10f-4abf-a7fc-fc1d503cf0c7@localhost:0?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%91%87+%D0%94%D0%BB%D1%8F+%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9+%D1%81%D0%B2%D1%8F%D0%B7%D0%B8+%F0%9F%91%87
 vless://b5e23894-a10f-4abf-a7fc-fc1d503cf0c7@news4.proazkaban.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&fp=qq&pbk=W_IvmauODNLEyLqTAt4E3OHan1H82MI5EcSA_R6ZKXU&sid=f5d54d32e23e#%F0%9F%87%B7%F0%9F%87%BA%20%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%7C%20%E2%8F%B3%D0%BE%D1%81%D1%82%2025%D0%B4%20%20%20%20
 vless://b5e23894-a10f-4abf-a7fc-fc1d503cf0c7@news3.proazkaban.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&fp=qq&pbk=PCilVhC981EQvqG-uP9wxd6-MIVmiRNluD3aPOyahW4&sid=f5d545f2e32e#%F0%9F%87%B7%F0%9F%87%BA%20%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20LTE%20%F0%9F%9F%A2%20%20%20%20
