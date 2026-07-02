@@ -1,5 +1,5 @@
 # profile-title: VM4 
-# announce: обновлено:  03.07.2026 01.15
+# announce: обновлено:  03.07.2026 01.30
 vless://b5e23894-a10f-4abf-a7fc-fc1d503cf0c7@localhost:0?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%91%87+%D0%94%D0%BB%D1%8F+%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9+%D1%81%D0%B2%D1%8F%D0%B7%D0%B8+%F0%9F%91%87
 
 vless://b5e23894-a10f-4abf-a7fc-fc1d503cf0c7@localhost:0?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%91%87+%D0%94%D0%BB%D1%8F+WIFI+%F0%9F%91%87
