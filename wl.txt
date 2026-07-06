@@ -1,5 +1,5 @@
 # profile-title: VM 
-# announce: обновлено:  06.07.2026 11.30
+# announce: обновлено:  06.07.2026 11.45
 vless://b5e23894-a10f-4abf-a7fc-fc1d503cf0c7@localhost:0?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%91%87+%D0%94%D0%BB%D1%8F+%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9+%D1%81%D0%B2%D1%8F%D0%B7%D0%B8+%F0%9F%91%87
 vless://b5e23894-a10f-4abf-a7fc-fc1d503cf0c7@news5.proazkaban.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=max.ru&fp=qq&pbk=o8OFHmqqH_IhMe4owTwMrU8WqxxBxwN4KezocmEmKFk&sid=f5dade54d4ea42#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%7C%20%E2%8F%B3%D0%BE%D1%81%D1%82%201%D0%B4%20%20%20%20
 vless://b5e23894-a10f-4abf-a7fc-fc1d503cf0c7@news3.proazkaban.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=max.ru&fp=qq&pbk=PCilVhC981EQvqG-uP9wxd6-MIVmiRNluD3aPOyahW4&sid=f5d545f2e32e#%F0%9F%87%B7%F0%9F%87%BA%20%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%F0%9F%9F%A2%20
@@ -26,4 +26,4 @@ vless://b5e23894-a10f-4abf-a7fc-fc1d503cf0c7@sw.frosty-rout.top:443?encryption=n
 vless://b5e23894-a10f-4abf-a7fc-fc1d503cf0c7@latvia.proazkaban.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=latvia.proazkaban.ru&fp=firefox&pbk=1jIEmuI1EQ4_M9aanz63d0yYX79brTDwj-TM6Xv8nnU&sid=f72469e2e36f976a#%F0%9F%87%B1%F0%9F%87%BB%20%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D1%8F%20%F0%9F%94%A5
 vless://b5e23894-a10f-4abf-a7fc-fc1d503cf0c7@usa.proazkaban.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=usa.proazkaban.ru&fp=firefox&pbk=v8ToeDvIpW-Km7dg-I7zdkR1vtuW8XI_QHRB8028OnI&sid=f82c94d6d0750641#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%20%F0%9F%94%A5
 vless://b5e23894-a10f-4abf-a7fc-fc1d503cf0c7@localhost:0?encryption=none&type=tcp&security=none#%F0%9F%91%87%20%D0%91%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D1%8B%D0%B9%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%20%E2%98%A0%EF%B8%8F%20%F0%9F%91%87
-vless://b5e23894-a10f-4abf-a7fc-fc1d503cf0c7@localhost:12321?encryption=none&type=tcp&security=none#1273.02%20GiB%2F0%F0%9F%93%88
+vless://b5e23894-a10f-4abf-a7fc-fc1d503cf0c7@localhost:12321?encryption=none&type=tcp&security=none#1273.14%20GiB%2F0%F0%9F%93%88
