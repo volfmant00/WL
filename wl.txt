@@ -1,5 +1,5 @@
 # profile-title: VM 
-# announce: обновлено:  10.07.2026 23.15
+# announce: обновлено:  10.07.2026 23.30
 vless://b5e23894-a10f-4abf-a7fc-fc1d503cf0c7@localhost:0?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%91%87+%D0%94%D0%BB%D1%8F+%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9+%D1%81%D0%B2%D1%8F%D0%B7%D0%B8+%F0%9F%91%87
 vless://c4c7b93b-ee1c-4e77-9a76-4c5749c21cf8@46.243.232.112:1449?encryption=none&security=reality&pbk=ma1sfxr9KLRlUY27L-P8femXtXkjB-NAb-24mZEX3Bo&sni=ads.x5.ru&fp=firefox&type=xhttp&mode=auto&path=%2F#%F0%9F%87%B7%F0%9F%87%BA%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%231
 vless://c4c7b93b-ee1c-4e77-9a76-4c5749c21cf8@46.243.232.112:5432?encryption=none&security=reality&pbk=ma1sfxr9KLRlUY27L-P8femXtXkjB-NAb-24mZEX3Bo&sni=ads.x5.ru&fp=firefox&type=xhttp&mode=auto&path=%2F#%F0%9F%87%B7%F0%9F%87%BA%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%232
